@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Enriching and Using 3D Reference Objects in the Human Reference Atlas in the HRA user Interfaces and the HRA Organ Gallery in Virtual Reality"
+    </title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <style>
+        hr {
+            border: none;
+            border-top: thin solid;
+            background-color: rgb(66, 66, 66);
+        }
+        
+        th.table-section-header {
+            font-style: italic;
+        }
+        
+        td.left {
+            text-align: left;
+        }
+        
+        td.right {
+            text-align: right;
+        }
+        
+        th.right {
+            text-align: right;
+        }
+        
+        ul.no-bullets {
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+        }
+        
+        h1 {
+            margin-top: 30px;
+        }
+        
+        body {
+            font-family: Arial, sans-serif;
+        }
+        
+        .hidden {
+            display: none;
+        }
+        
+        model-viewer-div {
+            height: 400px;
+        }
+    </style>
+    <script>
+        showIframe = function(id, url) {
+            var iframe = document.getElementById(id);
+            iframe.src = url;
+            iframe.height = 600;
+            var p = document.getElementById(id + "-message");
+            if (p) {
+                p.classList.remove("hidden")
+            }
+        }
+    </script>
+    <!-- Import the <model-viewer> component -->
+    <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
+</head>
+
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <h1>Companion Website for “Enriching and Using 3D Reference Objects in the Human Reference Atlas in the HRA user Interfaces and the HRA Organ Gallery in Virtual Reality”</h1>
+                <p></p>
+                <p>Bruce W. Herr II<sup>1</sup>, Josef Hardi<sup>2</sup>, Ellen M. Quardokus<sup>1</sup>, Andreas Bueckle
+                    <sup>1*</sup>, Lu Chen<sup>3</sup>, Fusheng Wang<sup>3</sup>, Anita R. Caron<sup>4</sup>, David Osumi-Sutherland
+                    <sup>4</sup>, Mark A. Musen<sup>2</sup>, Katy Börner<sup>1*</sup></p>
+
+                <ul class="no-bullets">
+                    <li><sup>1</sup> Department of Intelligent Systems Engineering, Luddy School of Informatics, Computing, and Engineering, Indiana University, Bloomington, IN 47408, USA</li>
+                    <li><sup>2</sup> Stanford Center for Biomedical Informatics Research, Stanford University, Stanford, CA, 94305 USA
+                    </li>
+                    <li></li><sup>3</sup> Department of Computer Science, Stony Brook University, Stony Brook, 11794, NY, USA
+                    </li>
+                    <li><sup>4</sup> EMBL-European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, Cambridge, UK
+                    </li>
+                </ul>
+                <p><sup>*</sup> Corresponding authors</p>
+            </div>
+
+
+
+        </div>
+        <hr>
+
+        <div class="row">
+            <div class="col">
+                <p> <a target="_blank" href="https://www.biorxiv.org/content/10.1101/2022.09.08.507220v1">Preprint on
+                        bioRxiv</a></p>
+                <p><a target="_blank" href="https://bioportal.bioontology.org/ontologies/CCF" target="_blank">CCF.OWL
+                        v2.0.1 on NCBI
+                        BioPortal Ontology Browser</a></p>
+                <p><a target="_blank" href="https://www.ebi.ac.uk/ols/ontologies/ccf" target="_blank">CCF.OWL v2.0.1 on
+                        EBI Ontology Lookup Service (OLS) Ontology Browser</a></p>
+                <p>We welcome others to join our effort in constructing a user-friendly and useful HRA. Please sign up for the ASCT+B Working Group at <a href "https://iu.co1.qualtrics.com/jfe/form/SV_bpaBhIr8XfdiNRH">https://iu.co1.qualtrics.com/jfe/form/SV_bpaBhIr8XfdiNRH
+        </a> to receive updates and meeting invites.
+                </p>
+            </div>
+        </div>
+        <hr>
+        <div class="row">
+            <div class="col">
+                <h1>Exemplary Queries for CCF.OWL v2.0.1</h1>
+                <p>We provide standard queries to a static version of the CCF API which includes CCF.OWL v2.0.1 and experimental data by five consortia made available as LOD. Note that counts for experimental data tissue blocks will be lower as in the paper
+                    because the database was compiled on June 23, 2022 and the paper reports data available on August 25, 2022. You can access the full data story <a href="https://triplydb.com/BruceWHerrII/-/stories/CCFOWL-v201-Paper" target="_blank">here</a>.
+                </p>
+                <table width="100%">
+                    <tr>
+                        <th>Description</th>
+                        <th class="right">Count</th>
+                        <th class="right">Run Query</th>
+                    </tr>
+                    <tr>
+                        <td>Number of RDF Triples in CCF.OWL v2.0.1</td>
+                        <td class="right">266,576</td>
+
+
+                        <td class="right"><a href="https://triplydb.com/BruceWHerrII/-/queries/Number-of-Triples/1" target="_blank">Query</a></td>
+                    </tr>
+
+
+                    <tr>
+                        <th class="table-section-header">Human Reference Atlas Data</th>
+                    </tr>
+                    <tr>
+                        <th class="table-section-header">Biological structure</th>
+                    </tr>
+                    <tr>
+                        <td>Number of Anatomical Structures</td>
+                        <td class="right">2,619</td>
+
+
+                        <td class="right"><a href="https://triplydb.com/BruceWHerrII/-/queries/Number-of-Anatomical-Structures/1" target="_blank">Query</a></td>
+                    </tr>
+                    <tr>
+                        <td>Number of Anatomical Structures mapped to Uberon</td>
+                        <td class="right">400</td>
+
+
+                        <td class="right"><a href="https://triplydb.com/BruceWHerrII/-/queries/AS-not-mapped-to-uberon/2" target="_blank">Query</a></td>
+                    </tr>
+                    <tr>
+                        <td>Number of Cell Types</td>
+                        <td class="right">736</td>
+
+
+                        <td class="right"><a href="https://triplydb.com/BruceWHerrII/-/queries/Number-of-Cell-Types/2" target="_blank">Query</a></td>
+                    </tr>
+                    <tr>
+                        <td>Number of Cell Types with unmapped IDs</td>
+                        <td class="right">348</td>
+
+
+                        <td class="right"><a href="https://triplydb.com/BruceWHerrII/-/queries/-CT-with-unmapped-IDs/1" target="_blank">Query</a></td>
+                    </tr>
+                    <tr>
+                        <td>Number of LMHA Cell Types</td>
+                        <td class="right">5</td>
+
+
+                        <td class="right"><a href="https://triplydb.com/BruceWHerrII/-/queries/Number-of-LMHA-Cell-Types/2" target="_blank">Query</a></td>
+                    </tr>
+                    <tr>
+                        <td>Number of Biomarkers</td>
+                        <td class="right">1,540</td>
+
+
+                        <td class="right"><a href="https://triplydb.com/BruceWHerrII/-/queries/Number-of-Biomarkers/1" target="_blank">Query</a></td>
+                    </tr>
+                    <tr>
+                        <td>Number of Biomarkers with HGNC IDs</td>
+                        <td class="right">1,093</td>
+
+
+                        <td class="right"><a href="https://triplydb.com/BruceWHerrII/-/queries/Number-of-Biomarkers-with-HGNC-IDs/2" target="_blank">Query</a></td>
+                    </tr>
+                    <tr>
+                        <td>Number of Biomarkers with unmapped IDs</td>
+                        <td class="right">447</td>
+
+
+                        <td class="right"><a href="https://triplydb.com/BruceWHerrII/-/queries/Biomarkers-with-unmapped-IDs/1" target="_blank">Query</a></td>
+                    </tr>
+                    <tr>
+                        <td>Number of AS-AS Links</td>
+                        <td class="right">3,116</td>
+
+
+                        <td class="right"><a href="https://triplydb.com/BruceWHerrII/-/queries/Number-of-AS-AS-Links/1" target="_blank">Query</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Number of AS-CT Links</td>
+                        <td class="right">10,331</td>
+
+
+                        <td class="right"><a href="https://triplydb.com/BruceWHerrII/-/queries/AS-CT-Count/1" target="_blank">Query</a></td>
+                    </tr>
+                    <tr>
+                        <td>Number of CT-B Links</td>
+                        <td class="right">3,572</td>
+
+
+                        <td class="right"><a href="https://triplydb.com/BruceWHerrII/-/queries/Cell-Type-Biomarker-Count/1" target="_blank">Query</a></td>
+                    </tr>
+
+                    <tr>
+                        <th class="table-section-header">Spatial</th>
+                    </tr>
+
+
+                    <tr>
+                        <td>Reference Organ Count
+                            <td class="right">53</td>
+
+                        </td>
+                        <td class="right"><a href="https://triplydb.com/BruceWHerrII/-/queries/Reference-Organ-Count/1" target="_blank">Query</a></td>
+                    </tr>
+                    <tr>
+                        <td>3D Reference Organ AS Count</td>
+                        <td class="right">1,190</td>
+
+
+                        <td class="right"><a href="https://triplydb.com/BruceWHerrII/-/queries/Reference-Organ-AS-Count/1" target="_blank">Query</a></td>
+                    </tr>
+                    <tr>
+                        <td>Number of Landmarks</td>
+                        <td class="right">337</td>
+
+
+                        <td class="right"><a href="https://triplydb.com/BruceWHerrII/-/queries/Number-of-Landmarks/1" target="_blank">Query</a></td>
+                    </tr>
+
+                    <tr>
+                        <th class="table-section-header">Experimental Data</th>
+                    </tr>
+                    <tr>
+                        <th class="table-section-header">Specimen</th>
+                    </tr>
+
+                    <tr>
+                        <td>Donor Count</td>
+                        <td class="right">137</td>
+
+
+                        <td class="right"><a href="https://triplydb.com/BruceWHerrII/-/queries/Donor-Count/1" target="_blank">Query</a></td>
+                    </tr>
+                    <tr>
+                        <td>Tissue Block Count</td>
+                        <td class="right">359</td>
+
+
+                        <td class="right"><a href="https://triplydb.com/BruceWHerrII/-/queries/Tissue-Block-Count/1" target="_blank">Query</a></td>
+                    </tr>
+                    <tr>
+                        <td>Section Count</td>
+                        <td class="right">561</td>
+
+
+                        <td class="right"><a href="https://triplydb.com/BruceWHerrII/-/queries/Section-Count/1" target="_blank">Query</a></td>
+                    </tr>
+                    <tr>
+                        <td>Consortium Count</td>
+                        <td class="right">5</td>
+
+
+                        <td class="right"><a href="https://triplydb.com/BruceWHerrII/-/queries/Consortium-Count/1" target="_blank">Query</a></td>
+                    </tr>
+
+                    <tr>
+                        <th class="table-section-header">Spatial</th>
+                    </tr>
+                    <tr>
+                        <td>RUI Location Count</td>
+                        <td class="right">350</td>
+
+
+                        <td class="right"><a href="" target="_blank">Query</a></td>
+                    </tr>
+                </table>
+                <!-- <p><iframe id="CCFOWL-v201-Paper" src="https://triplydb.com/BruceWHerrII/-/stories/CCFOWL-v201-Paper?embed" width="100%" height="100%" frameborder="0"></iframe>
+                    <script src="https://triplydb.com/resizeIframe.js" iframeId="CCFOWL-v201-Paper"></script>
+                </p> -->
+
+                <ul class="no-bullets">
+
+                </ul>
+            </div>
+        </div>
+        <hr>
+        <div class="row">
+            <div class="col">
+                <h1>Video Tutorials: Registration User Interface (RUI) and Exploration User Interface (EUI)</h1>
+                <p>The RUI and EUI allow the 3D registration and subsequent exploration of tissue blocks in relation to the HRA (v1.2) reference organs. Video Tutorial 1 and a standard operating procedure (<a href="https://zenodo.org/record/6628366#.Yw5LYrTMJD8"
+                        target="_blank">"Using the CCF
+                        Registration User Interface"</a>) illustrate their usage. Video Tutorial 2 shows how to validate a RUI location with the EUI.
+
+                    <p><iframe width="560" height="315" src="https://www.youtube.com/embed/gY3_-LIoKaU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        <p> Video Tutorial 1: RUI v3.0 Tutorial (<a href="https://www.youtube.com/watch?v=gY3_-LIoKaU" target="_blank">watch on YouTube</a>)</p>
+                    </p>
+                    <p>
+                        <br>
+                    </p>
+                    <p>
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/UloDIG0S64w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        <p> Video Tutorial 2: How to double-check a RUI registration with the EUI (<a href="https://www.youtube.com/watch?v=UloDIG0S64w" target="_blank">watch on YouTube</a>)
+                        </p>
+                    </p>
+
+                    <ul class="no-bullets">
+
+                    </ul>
+            </div>
+        </div>
+        <hr>
+        <div class="row">
+            <div class="col">
+                <h1>Video Demo: Organ VR Gallery</h1>
+                <p>The CCF Organ VR Gallery is an immersive application that allows users to view, explore, and analyze 3D reference organs, anatomical structures, and cell types, in an integrated virtual reality (VR) environment. More information about
+                    this project can be found be found on the <a href="https://hubmapconsortium.github.io/ccf/pages/ccf-gallery.html" target="_blank">CCF Organ
+                        VR Gallery</a> on the
+                    <a href="https://hubmapconsortium.github.io/ccf/index.html" target="_blank">CCF Portal</a>. A video demo is available below.
+                </p>
+                <p>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/S9pBOlSfsnc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+                <p>Video Demo: Features of the CCF Organ VR Gallery v0.5 (<a href="https://www.youtube.com/watch?v=S9pBOlSfsnc" target="_blank">watch on YouTube</a>)</p>
+
+
+                <ul class="no-bullets">
+
+                </ul>
+            </div>
+        </div>
+        <hr>
+
+
+
+    </div>
+</body>
+
+</html>
