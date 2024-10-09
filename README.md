@@ -1,2 +1,1 @@
-# hra-3d-reference-objects
- 
+# Supporitg Information for "Virtual Reality Enables Multiscale Exploration of the Human Reference Atlas"
