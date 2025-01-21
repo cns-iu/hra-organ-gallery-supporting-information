@@ -7,11 +7,11 @@ title: Supporting Information for “Virtual Reality Enables Multiscale Explorat
 
 Andreas Bueckle<sup>1</sup>\*, Chenchen Zhu<sup>2</sup>, Alex Yu Hin Wong<sup>3</sup>, Archibald Enninful<sup>4</sup>, Yang Miao<sup>5</sup>, Bruce W. Herr II<sup>1</sup>, Niteesha Jangam<sup>1</sup>, John Hickey<sup>5</sup>, Rong Fan<sup>4</sup>, Peter Sorger<sup>3</sup>, Michael Snyder<sup>2</sup>, Katy Börner<sup>1</sup>\*
 
-1 Department of Intelligent Systems Engineering, Luddy School of Informatics, Computing, and Engineering, Indiana University, Bloomington, IN, USA
-2 Department of Genetics, Stanford University, Stanford, CA, USA
-3 Department of Systems Biology, Harvard Medical School, Boston, MA
-4 School of Engineering & Applied Science, Yale University, New Haven, CT, USA
-5 Department of Biomedical Engineering, Duke University, Durham, NC, USA
+<sup>1</sup> Department of Intelligent Systems Engineering, Luddy School of Informatics, Computing, and Engineering, Indiana University, Bloomington, IN, USA\
+<sup>2</sup> Department of Genetics, Stanford University, Stanford, CA, USA\
+<sup>3</sup> Department of Systems Biology, Harvard Medical School, Boston, MA\
+<sup>4</sup> School of Engineering & Applied Science, Yale University, New Haven, CT, USA\
+<sup>5</sup> Department of Biomedical Engineering, Duke University, Durham, NC, USA
 
 \* Corresponding authors
 
