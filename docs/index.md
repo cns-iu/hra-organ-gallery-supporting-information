@@ -13,7 +13,9 @@ Andreas Bueckle<sup>1</sup>\*, Chenchen Zhu<sup>2</sup>, Alex Yu Hin Wong<sup>3<
 <sup>4</sup> School of Engineering & Applied Science, Yale University, New Haven, CT, USA\
 <sup>5</sup> Department of Biomedical Engineering, Duke University, Durham, NC, USA
 
-\* Corresponding authors
+\* Corresponding authors  
+Andreas Bueckle: [abueckle@iu.edu](mailto:abueckle@iu.edu)  
+Katy Börner: [katy@iu.edu](mailto:katy@iu.edu) 
 
 # Links
 
