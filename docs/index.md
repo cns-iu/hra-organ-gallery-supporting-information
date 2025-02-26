@@ -25,6 +25,9 @@ Katy Börner: [katy@iu.edu](mailto:katy@iu.edu)
 ## Workshop Website  
 [Jumpstart Workshop](https://cns-iu.github.io/workshops/2024-10-24-jumpstart-workshop/)  
 
+## Workshop Abstracts (Updated)  
+[HRA Organ Gallery Paper](https://docs.google.com/document/d/13bLvfb24RZbPh-M6C7Udnlhegl8NgaLjhkC83JpdiEg/edit?tab=t.0#heading=h.vck64gpdx50p)
+
 # Links
 
 - Link to preprint: 
