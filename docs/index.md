@@ -15,4 +15,7 @@ Andreas Bueckle<sup>1</sup>\*, Chenchen Zhu<sup>2</sup>, Alex Yu Hin Wong<sup>3<
 
 \* Corresponding authors
 
+# Links
 
+- Link to preprint: 
+- Link to GitHub: [https://github.com/cns-iu/hra-organ-gallery-supporting-information](https://github.com/cns-iu/hra-organ-gallery-supporting-information)
