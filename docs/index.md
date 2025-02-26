@@ -28,6 +28,16 @@ Katy Börner: [katy@iu.edu](mailto:katy@iu.edu)
 ## Workshop Abstracts (Updated)  
 [HRA Organ Gallery Paper](https://docs.google.com/document/d/13bLvfb24RZbPh-M6C7Udnlhegl8NgaLjhkC83JpdiEg/edit?tab=t.0#heading=h.vck64gpdx50p)
 
+## Application  
+The application is available for Meta Quest 2, 3, and Pro.  
+You can find it on the **Meta Horizon Store**:
+[HRA Organ Gallery - Meta Store](https://www.meta.com/en-gb/experiences/hra-organ-gallery/5696814507101529/ )
+
+## Data and Code
+All code is **open-source** and accessible at:  
+- [GitHub Repository for VR](https://github.com/cns-iu/hra-organ-gallery-in-vr)  
+- [Supporting Information Repository](https://github.com/cns-iu/hra-organ-gallery-supporting-information)  
+
 # Links
 
 - Link to preprint: 
