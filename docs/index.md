@@ -22,6 +22,9 @@ Katy Börner: [katy@iu.edu](mailto:katy@iu.edu)
 - **Deployed at:** [GitHub Pages](https://cns-iu.github.io/hra-organ-gallery-supporting-information/)  
 
 ---
+## Workshop Website  
+[Jumpstart Workshop](https://cns-iu.github.io/workshops/2024-10-24-jumpstart-workshop/)  
+
 # Links
 
 - Link to preprint: 
