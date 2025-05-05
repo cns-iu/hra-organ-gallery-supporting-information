@@ -15,7 +15,6 @@ Andreas Bueckle<sup>1</sup>\*, Chenchen Zhu<sup>2</sup>, Alex Yu Hin Wong<sup>3<
 
 \* Corresponding authors  
 Andreas Bueckle: [abueckle@iu.edu](mailto:abueckle@iu.edu)  
-Katy Börner: [katy@iu.edu](mailto:katy@iu.edu) 
 
 ## Companion Website Repository  
 - **Repo:** [GitHub Repository](https://github.com/cns-iu/hra-organ-gallery-supporting-information)  
