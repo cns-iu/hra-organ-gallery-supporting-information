@@ -5,7 +5,7 @@ title: Supporting Information for “Virtual Reality Enables Multiscale Explorat
 
 # Supporting Information for "Multiscale VR Exploration of the 3D Human Reference Atlas Provides Novel Insights into Health, Aging, and Disease"
 
-Andreas Bueckle<sup>1</sup>\*, Chenchen Zhu<sup>2</sup>, Alex Yu Hin Wong<sup>3</sup>, Archibald Enninful<sup>4</sup>, Yang Miao<sup>5</sup>, Bruce W. Herr II<sup>1</sup>,  Danial Qaurooni<sup>1</sup>, Niteesha Jangam<sup>1</sup>, Juhi Khare<sup>1</sup>, Yash Kumar<sup>1</sup>, Ushma Patel<sup>1</sup>, John Hickey<sup>5</sup>, Rong Fan<sup>4</sup>, Peter Sorger<sup>3</sup>, Michael Snyder<sup>2</sup>, Katy Börner<sup>1</sup>\*
+Andreas Bueckle<sup>1</sup>\*, Chenchen Zhu<sup>2</sup>, Alex Yu Hin Wong<sup>3</sup>, Archibald Enninful<sup>4</sup>, Yang Miao<sup>5</sup>, Bruce W. Herr II<sup>1</sup>,  Danial Qaurooni<sup>1</sup>, Niteesha Jangam<sup>1</sup>, Juhi Khare<sup>1</sup>, Yash Kumar<sup>1</sup>, Keyur Parekh<sup>1</sup>, Ushma Patel<sup>1</sup>, John Hickey<sup>5</sup>, Rong Fan<sup>4</sup>, Peter Sorger<sup>3</sup>, Michael Snyder<sup>2</sup>, Katy Börner<sup>1</sup>\*
 
 <sup>1</sup> Department of Intelligent Systems Engineering, Luddy School of Informatics, Computing, and Engineering, Indiana University, Bloomington, IN, USA\
 <sup>2</sup> Department of Genetics, Stanford University, Stanford, CA, USA\
