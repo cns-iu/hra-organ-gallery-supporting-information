@@ -5,7 +5,7 @@ title: Supporting Information for “Virtual Reality Enables Multiscale Explorat
 
 # Supporting Information for "Multiscale VR Exploration of the 3D Human Reference Atlas Provides Novel Insights into Health, Aging, and Disease"
 
-Andreas Bueckle<sup>1</sup>\*, Chenchen Zhu<sup>2</sup>, Alex Yu Hin Wong<sup>3</sup>, Archibald Enninful<sup>4</sup>, Yang Miao<sup>5</sup>, Bruce W. Herr II<sup>1</sup>,  Danial Qaurooni<sup>1</sup>, Niteesha Jangam<sup>1</sup>, Juhi Khare<sup>1</sup>, Yash Kumar<sup>1</sup>, Keyur Parekh<sup>1</sup>, Ushma Patel<sup>1</sup>, John Hickey<sup>5</sup>, Rong Fan<sup>4</sup>, Peter Sorger<sup>3</sup>, Michael Snyder<sup>2</sup>, Katy Börner<sup>1</sup>\*
+Andreas Bueckle<sup>1</sup>\*, Chenchen Zhu<sup>2</sup>, Alex Yu Hin Wong<sup>3</sup>, Archibald Enninful<sup>4</sup>, Yang Miao<sup>5</sup>, Negin Farzad<sup>4</sup>, Bruce W. Herr II<sup>1</sup>,  Danial Qaurooni<sup>1</sup>, Niteesha Jangam<sup>1</sup>, Juhi Khare<sup>1</sup>, Yash Kumar<sup>1</sup>, Keyur Parekh<sup>1</sup>, Ushma Patel<sup>1</sup>, John Hickey<sup>5</sup>, Rong Fan<sup>4</sup>, Peter Sorger<sup>3</sup>, Michael Snyder<sup>2</sup>, Katy Börner<sup>1</sup>\*
 
 <sup>1</sup> Department of Intelligent Systems Engineering, Luddy School of Informatics, Computing, and Engineering, Indiana University, Bloomington, IN, USA\
 <sup>2</sup> Department of Genetics, Stanford University, Stanford, CA, USA\
@@ -17,15 +17,16 @@ Andreas Bueckle<sup>1</sup>\*, Chenchen Zhu<sup>2</sup>, Alex Yu Hin Wong<sup>3<
 Andreas Bueckle: [abueckle@iu.edu](mailto:abueckle@iu.edu)\
 Katy Börner: [katy@iu.edu](mailto:katy@iu.edu)
 
-## Companion Website Repository  
-- **Repo:** [GitHub Repository](https://github.com/cns-iu/hra-organ-gallery-supporting-information)  
-- **Deployed at:** [GitHub Pages](https://cns-iu.github.io/hra-organ-gallery-supporting-information/)  
+## Data pages 
+Key information and documentation for individual scenes is available on [GitHub](https://cns-iu.github.io/hra-organ-gallery-data-pages/).
 
 ---
 ## Application  
-The application is available for Meta Quest 2, 3, and Pro.  
+The application is available for Meta Quest 2, 3, 3S, and Pro.  
 You can find it on the **Meta Horizon Store**:
 [HRA Organ Gallery - Meta Store](https://www.meta.com/en-gb/experiences/hra-organ-gallery/5696814507101529/ )
+
+## Data pages
 
 ## Data and Code
 All code is **open-source** and accessible at:  
