@@ -18,7 +18,18 @@ Andreas Bueckle: [abueckle@iu.edu](mailto:abueckle@iu.edu)\
 Katy Börner: [katy@iu.edu](mailto:katy@iu.edu)
 
 ## Data pages 
-Key information and documentation for individual scenes is available on [GitHub](https://cns-iu.github.io/hra-organ-gallery-data-pages/).
+A playlist with all videos demos is available on [YouTube](https://www.youtube.com/playlist?list=PL-CUnYVIy7DPxxffI0t7xmM-T3xPgAZdl).
+
+| Power | Scene (Short Name)                 | Scene                                        | URL                                                                 |
+|-------|------------------------------------|----------------------------------------------|----------------------------------------------------------------------|
+| 10⁰   | whole_body-10_0                    | 10⁰ Whole Body                               | [hra-whole_body-10_0.md](https://cns-iu.github.io/hra-organ-gallery-supporting-information/data-pages/hra-whole_body-10_0) |
+| 10⁻²  | hubmap-lymph_node-enninful-farzad-10_2     | 10⁻² Small Organ                              | [hubmap-lymph_node-enninful-farzad-10_2.md](https://cns-iu.github.io/hra-organ-gallery-data-pages/hubmap-lymph_node-enninful-farzad-10_2) |
+| 10⁻³  | sennet-brain-phatnani-10_3          | 10⁻³ Large FTUs                               | [sennet-brain-phatnani-10_3](https://cns-iu.github.io/hra-organ-gallery-supporting-information/data-pages/sennet-brain-phatnani-10_3) |
+| 10⁻⁴  | htan-colon-wong-10_4                | 10⁻⁴ Cell Groups ~760 Microns (Wong)          | [htan-colon-wong-10_4](https://cns-iu.github.io/hra-organ-gallery-supporting-information/data-pages/htan-colon-wong-10_4) |
+| 10⁻⁴  | hubmap-intestine-miao-10_4          | 10⁻⁴ Cell Groups ~760 Microns (Miao)          | [hubmap-intestine-miao-10_4](https://cns-iu.github.io/hra-organ-gallery-supporting-information/data-pages/hubmap-intestine-miao-10_4) |
+| 10⁻⁴  | hubmap-intestine-zhu-10_4           | 10⁻⁴ Cell Groups ~760 Microns (Zhu)           | [hubmap-intestine-zhu-10_4](https://cns-iu.github.io/hra-organ-gallery-supporting-information/data-pages/hubmap-intestine-zhu-10_4) |
+| 10⁻⁴  | cifar-liver-bader-10_4              | 10⁻⁴ Cell Groups ~760 Microns (Bader-Xing)    | [cifar-liver-bader-10_4](https://cns-iu.github.io/hra-organ-gallery-supporting-information/data-pages/cifar-liver-bader-10_4) |
+| 10⁻⁴  | multiscale-comparison-10_4          | 10⁻⁴ Multiscale Comparison                    | [multiscale-comparison](https://cns-iu.github.io/hra-organ-gallery-supporting-information/data-pages/multiscale-comparison-10_4) |
 
 ---
 ## Application  
