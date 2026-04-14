@@ -26,7 +26,7 @@ A playlist with all video demos is available on [YouTube](https://www.youtube.co
 
 | Power | Scene (Short Name) | Scene | URL | YouTube |
 |-------|--------------------|-------|-----|---------|
-| 10⁰ | whole_body-10_0 | 10⁰ Whole Body | [whole_body-10_0](https://cns-iu.github.io/hra-organ-gallery-supporting-information/data-pages/hra_whole_body-10_0) | [![Watch](https://img.youtube.com/vi/WbfieQPjEWQ/0.jpg)](https://youtu.be/WbfieQPjEWQ) |
+| 10⁰ | whole_body-10_0 | 10⁰ Whole Body | [whole_body-10_0](https://cns-iu.github.io/hra-organ-gallery-supporting-information/data-pages/hra-whole-body-10_0) | [![Watch](https://img.youtube.com/vi/WbfieQPjEWQ/0.jpg)](https://youtu.be/WbfieQPjEWQ) |
 | 10⁻² | hubmap-lymph_node-enninful-farzad-10_2 | 10⁻² Small Organ | [hubmap-lymph_node-enninful-farzad-10_2](https://cns-iu.github.io/hra-organ-gallery-data-pages/hubmap-lymph_node-enninful-farzad-10_2) | [![Watch](https://img.youtube.com/vi/ziIqkVrZ9bw/0.jpg)](https://youtu.be/ziIqkVrZ9bw) |
 | 10⁻³ | sennet-brain-phatnani-10_3 | 10⁻³ Large FTUs | [sennet-brain-phatnani-10_3](https://cns-iu.github.io/hra-organ-gallery-supporting-information/data-pages/sennet-brain-phatnani-10_3) | [![Watch](https://img.youtube.com/vi/Wy0BCOFWClk/0.jpg)](https://youtu.be/Wy0BCOFWClk) |
 | 10⁻⁴ | htan-colon-wong-10_4 | 10⁻⁴ Cell Groups ~760 Microns (Wong) | [htan-colon-wong-10_4](https://cns-iu.github.io/hra-organ-gallery-supporting-information/data-pages/htan-colon-wong-10_4) | [![Watch](https://img.youtube.com/vi/Fyo-Tswcuew/0.jpg)](https://youtu.be/Fyo-Tswcuew) |
