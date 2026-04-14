@@ -1,2 +1,9 @@
 markdown: kramdown 
 title: ㅤ
+
+defaults:
+  - scope:
+      path: 'data-pages'
+    values:
+      layout: page
+      permalink: /data-pages/:basename/
