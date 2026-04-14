@@ -1,3 +1,6 @@
+---
+---
+
 # Hierarchical Cell Neighborhoods
 
 # Description
