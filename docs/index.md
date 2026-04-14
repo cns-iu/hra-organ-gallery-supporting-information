@@ -17,19 +17,24 @@ Andreas Bueckle<sup>1</sup>\*, Chenchen Zhu<sup>2</sup>, Alex Yu Hin Wong<sup>3<
 Andreas Bueckle: [abueckle@iu.edu](mailto:abueckle@iu.edu)\
 Katy Börner: [katy@iu.edu](mailto:katy@iu.edu)
 
-## Data pages 
-A playlist with all videos demos is available on [YouTube](https://www.youtube.com/playlist?list=PL-CUnYVIy7DPxxffI0t7xmM-T3xPgAZdl).
+## Links
 
-| Power | Scene (Short Name)                 | Scene                                        | URL                                                                 |
-|-------|------------------------------------|----------------------------------------------|----------------------------------------------------------------------|
-| 10⁰   | whole_body-10_0                    | 10⁰ Whole Body                               | [hra-whole_body-10_0.md](https://cns-iu.github.io/hra-organ-gallery-supporting-information/data-pages/hra-whole_body-10_0) |
-| 10⁻²  | hubmap-lymph_node-enninful-farzad-10_2     | 10⁻² Small Organ                              | [hubmap-lymph_node-enninful-farzad-10_2.md](https://cns-iu.github.io/hra-organ-gallery-data-pages/hubmap-lymph_node-enninful-farzad-10_2) |
-| 10⁻³  | sennet-brain-phatnani-10_3          | 10⁻³ Large FTUs                               | [sennet-brain-phatnani-10_3](https://cns-iu.github.io/hra-organ-gallery-supporting-information/data-pages/sennet-brain-phatnani-10_3) |
-| 10⁻⁴  | htan-colon-wong-10_4                | 10⁻⁴ Cell Groups ~760 Microns (Wong)          | [htan-colon-wong-10_4](https://cns-iu.github.io/hra-organ-gallery-supporting-information/data-pages/htan-colon-wong-10_4) |
-| 10⁻⁴  | hubmap-intestine-miao-10_4          | 10⁻⁴ Cell Groups ~760 Microns (Miao)          | [hubmap-intestine-miao-10_4](https://cns-iu.github.io/hra-organ-gallery-supporting-information/data-pages/hubmap-intestine-miao-10_4) |
-| 10⁻⁴  | hubmap-intestine-zhu-10_4           | 10⁻⁴ Cell Groups ~760 Microns (Zhu)           | [hubmap-intestine-zhu-10_4](https://cns-iu.github.io/hra-organ-gallery-supporting-information/data-pages/hubmap-intestine-zhu-10_4) |
-| 10⁻⁴  | cifar-liver-bader-10_4              | 10⁻⁴ Cell Groups ~760 Microns (Bader-Xing)    | [cifar-liver-bader-10_4](https://cns-iu.github.io/hra-organ-gallery-supporting-information/data-pages/cifar-liver-bader-10_4) |
-| 10⁻⁴  | multiscale-comparison-10_4          | 10⁻⁴ Multiscale Comparison                    | [multiscale-comparison](https://cns-iu.github.io/hra-organ-gallery-supporting-information/data-pages/multiscale-comparison-10_4) |
+- Link to preprint: TBA
+
+## Data pages 
+A playlist with all video demos is available on [YouTube](https://www.youtube.com/playlist?list=PL-CUnYVIy7DPxxffI0t7xmM-T3xPgAZdl).
+
+| Power | Scene (Short Name)                 | Scene                                        | URL                                                                 | YouTube |
+|-------|------------------------------------|----------------------------------------------|----------------------------------------------------------------------|---------|
+| 10⁰   | whole_body-10_0                    | 10⁰ Whole Body                               | [hra-whole_body-10_0.md](https://cns-iu.github.io/hra-organ-gallery-supporting-information/data-pages/hra_whole_body-10_0) | https://youtu.be/WbfieQPjEWQ |
+| 10⁻²  | hubmap-lymph_node-enninful-farzad-10_2     | 10⁻² Small Organ                              | [hubmap-lymph_node-enninful-farzad-10_2.md](https://cns-iu.github.io/hra-organ-gallery-data-pages/hubmap-lymph_node-enninful-farzad-10_2) | https://youtu.be/ziIqkVrZ9bw |
+| 10⁻³  | sennet-brain-phatnani-10_3          | 10⁻³ Large FTUs                               | [sennet-brain-phatnani-10_3](https://cns-iu.github.io/hra-organ-gallery-supporting-information/data-pages/sennet-brain-phatnani-10_3) | https://youtu.be/Wy0BCOFWClk |
+| 10⁻⁴  | htan-colon-wong-10_4                | 10⁻⁴ Cell Groups ~760 Microns (Wong)          | [htan-colon-wong-10_4](https://cns-iu.github.io/hra-organ-gallery-supporting-information/data-pages/htan-colon-wong-10_4) | https://youtu.be/Fyo-Tswcuew |
+| 10⁻⁴  | hubmap-intestine-miao-10_4          | 10⁻⁴ Cell Groups ~760 Microns (Miao)          | [hubmap-intestine-miao-10_4](https://cns-iu.github.io/hra-organ-gallery-supporting-information/data-pages/hubmap-intestine-miao-10_4) | https://youtu.be/hqX-zHdnH2s |
+| 10⁻⁴  | hubmap-intestine-zhu-10_4           | 10⁻⁴ Cell Groups ~760 Microns (Zhu)           | [hubmap-intestine-zhu-10_4](https://cns-iu.github.io/hra-organ-gallery-supporting-information/data-pages/hubmap-intestine-zhu-10_4) | https://youtu.be/lsLYtRAKkuM |
+| 10⁻⁴  | cifar-liver-bader-10_4              | 10⁻⁴ Cell Groups ~760 Microns (Bader-Xing)    | [cifar-liver-bader-10_4](https://cns-iu.github.io/hra-organ-gallery-supporting-information/data-pages/cifar-liver-bader-10_4) | https://youtu.be/tw3xERUPt7U |
+| 10⁻⁴  | multiscale-comparison-10_4          | 10⁻⁴ Multiscale Comparison                    | [multiscale-comparison](https://cns-iu.github.io/hra-organ-gallery-supporting-information/data-pages/multiscale-comparison-10_4) | — |
+
 
 ---
 ## Application  
@@ -37,14 +42,7 @@ The application is available for Meta Quest 2, 3, 3S, and Pro.
 You can find it on the **Meta Horizon Store**:
 [HRA Organ Gallery - Meta Store](https://www.meta.com/en-gb/experiences/hra-organ-gallery/5696814507101529/ )
 
-## Data pages
-
 ## Data and Code
 All code is **open-source** and accessible at:  
 - [GitHub Repository for VR](https://github.com/cns-iu/hra-organ-gallery-in-vr)  
 - [Supporting Information Repository](https://github.com/cns-iu/hra-organ-gallery-supporting-information)  
-
-# Links
-
-- Link to preprint: 
-- Link to GitHub: [https://github.com/cns-iu/hra-organ-gallery-supporting-information](https://github.com/cns-iu/hra-organ-gallery-supporting-information)
