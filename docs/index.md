@@ -36,7 +36,7 @@ A playlist with all video demos is available on [YouTube](https://www.youtube.co
 | 10⁻⁴ | hubmap-intestine-miao-10_4 | 10⁻⁴ Cell Groups ~760 Microns (Miao) | [hubmap-intestine-miao-10_4](https://cns-iu.github.io/hra-organ-gallery-supporting-information/data-pages/hubmap-intestine-miao-10_4) | [![Watch](https://img.youtube.com/vi/fiTfs3d2Ppg/0.jpg)](https://youtu.be/fiTfs3d2Ppg) |
 | 10⁻⁴ | hubmap-intestine-zhu-10_4 | 10⁻⁴ Cell Groups ~760 Microns (Zhu) | [hubmap-intestine-zhu-10_4](https://cns-iu.github.io/hra-organ-gallery-supporting-information/data-pages/hubmap-intestine-zhu-10_4) | [![Watch](https://img.youtube.com/vi/dozc6qNzzQE/0.jpg)](https://youtu.be/dozc6qNzzQE) |
 | 10⁻⁴ | cifar-liver-bader_xing-10_4 | 10⁻⁴ Cell Groups ~760 Microns (Bader-Xing) | [cifar-liver-bader_xing-10_4](https://cns-iu.github.io/hra-organ-gallery-supporting-information/data-pages/cifar-liver-bader_xing-10_4) | [![Watch](https://img.youtube.com/vi/tw3xERUPt7U/0.jpg)](https://youtu.be/tw3xERUPt7U) |
-| 10⁻⁴ | hra-multiscale-comparison-codex-10_4 | 10⁻⁴ Multiscale Comparison | [hra-multiscale-comparison-codex-10_4](https://cns-iu.github.io/hra-organ-gallery-supporting-information/data-pages/hra-multiscale-comparison-codex-10_4) |  [![Watch](https://img.youtube.com/vi/82Nt1ydh-3o/0.jpg)](https://youtu.be/82Nt1ydh-3o) |
+| 10⁻⁴ | hra-multiscale-comparison-codex-10_4 | 10⁻⁴ Multiscale Comparison | [hra-multiscale-comparison-codex-10_4](https://cns-iu.github.io/hra-organ-gallery-supporting-information/data-pages/hra-multiscale-comparison-codex-10_4) |  [![Watch](https://img.youtube.com/vi/hKq2IewW6lg/0.jpg)](https://youtu.be/hKq2IewW6lg) |
 
 
 ---
