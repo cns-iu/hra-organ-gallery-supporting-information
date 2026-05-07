@@ -27,7 +27,7 @@ Katy Börner: [katy@iu.edu](mailto:katy@iu.edu)
 ## Data pages 
 A playlist with all video demos is available on [YouTube](https://www.youtube.com/playlist?list=PL-CUnYVIy7DPxxffI0t7xmM-T3xPgAZdl).
 
-| Power | Scene (Short Name) | Scene | URL | YouTube |
+| Power | Scene Name | Level Name | URL | YouTube |
 |-------|--------------------|-------|-----|---------|
 | 10⁰ | hra-whole_body-hra-10_0 | 10⁰ Whole Body | [hra-whole_body-hra-10_0](https://cns-iu.github.io/hra-organ-gallery-supporting-information/data-pages/hra-whole_body-hra-10_0) | [![Watch](https://img.youtube.com/vi/WbfieQPjEWQ/0.jpg)](https://youtu.be/WbfieQPjEWQ) |
 | 10⁻² | sennet-lymph_node-enninful_farzad-10_2 | 10⁻² Small Organ | [sennet-lymph_node-enninful_farzad-10_2](https://cns-iu.github.io/hra-organ-gallery-supporting-information/data-pages/sennet-lymph_node-enninful_farzad-10_2) | [![Watch](https://img.youtube.com/vi/ziIqkVrZ9bw/0.jpg)](https://youtu.be/ziIqkVrZ9bw) |
