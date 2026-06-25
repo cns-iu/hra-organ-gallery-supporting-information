@@ -27,7 +27,7 @@ Katy Börner: [katy@iu.edu](mailto:katy@iu.edu)
 ## Data pages 
 A playlist with all video demos is available on [YouTube](https://www.youtube.com/playlist?list=PL-CUnYVIy7DPxxffI0t7xmM-T3xPgAZdl).
 
-| YouTube (Click to View) | Power | Scale | Scene Name | Level Name | URL |
+| YouTube (Click to View) | Power | Metric Scale | Scene Name | Level Name | URL |
 |---------|-------|-------|-------|-----|-----|
 | [![Watch](https://img.youtube.com/vi/WbfieQPjEWQ/0.jpg)](https://youtu.be/WbfieQPjEWQ) | 10⁰ | 1 meter | hra-whole_body-hra-1_meter-10_0 | 10⁰ Whole Body | [hra-whole_body-hra-1_meter-10_0](https://cns-iu.github.io/hra-organ-gallery-supporting-information/data-pages/hra-whole_body-hra-1_meter-10_0) |
 | [![Watch](https://img.youtube.com/vi/ziIqkVrZ9bw/0.jpg)](https://youtu.be/ziIqkVrZ9bw) | 10⁻² | 1 centimeter | sennet-lymph_node-enninful_farzad-1_centimeter-10_2 | 10⁻² Small Organ | [sennet-lymph_node-enninful_farzad-1_centimeter-10_2](https://cns-iu.github.io/hra-organ-gallery-supporting-information/data-pages/sennet-lymph_node-enninful_farzad-1_centimeter-10_2) |
