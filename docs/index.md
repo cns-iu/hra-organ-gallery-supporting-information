@@ -24,22 +24,6 @@ Katy Börner: [katy@iu.edu](mailto:katy@iu.edu)
 
 - Link to preprint: TBA
 
-## Data pages 
-A playlist with all video demos is available on [YouTube](https://www.youtube.com/playlist?list=PL-CUnYVIy7DPxxffI0t7xmM-T3xPgAZdl).
-
-| YouTube (Click to View) | Power | Metric Scale | Scene Name | Level Name | URL |
-|---------|-------|-------|-------|-----|-----|
-| [![Watch](https://img.youtube.com/vi/WbfieQPjEWQ/0.jpg)](https://youtu.be/WbfieQPjEWQ) | 10⁰ | 1 meter | hra-whole_body-hra-1_meter-10_0 | 10⁰ Whole Body | [hra-whole_body-hra-1_meter-10_0](https://cns-iu.github.io/hra-organ-gallery-supporting-information/data-pages/hra-whole_body-hra-1_meter-10_0) |
-| [![Watch](https://img.youtube.com/vi/ziIqkVrZ9bw/0.jpg)](https://youtu.be/ziIqkVrZ9bw) | 10⁻² | 1 centimeter | sennet-lymph_node-enninful_farzad-1_centimeter-10_2 | 10⁻² Small Organ | [sennet-lymph_node-enninful_farzad-1_centimeter-10_2](https://cns-iu.github.io/hra-organ-gallery-supporting-information/data-pages/sennet-lymph_node-enninful_farzad-1_centimeter-10_2) |
-| [![Watch](https://img.youtube.com/vi/Wy0BCOFWClk/0.jpg)](https://youtu.be/Wy0BCOFWClk) | 10⁻³ | 1 millimeter | sennet-brain-phatnani-1_millimeter-10_3 | 10⁻³ Large FTUs | [sennet-brain-phatnani-1_millimeter-10_3](https://cns-iu.github.io/hra-organ-gallery-supporting-information/data-pages/sennet-brain-phatnani-1_millimeter-10_3) |
-| [![Watch](https://img.youtube.com/vi/Fyo-Tswcuew/0.jpg)](https://youtu.be/Fyo-Tswcuew) | 10⁻⁴ | 100 microns | hubmap-colon-wong-100_microns-10_4 | 10⁻⁴ Cell Groups ~760 Microns (Wong) | [hubmap-colon-wong-100_microns-10_4](https://cns-iu.github.io/hra-organ-gallery-supporting-information/data-pages/hubmap-colon-wong-100_microns-10_4) |
-| [![Watch](https://img.youtube.com/vi/fiTfs3d2Ppg/0.jpg)](https://youtu.be/fiTfs3d2Ppg) | 10⁻⁴ | 100 microns | hubmap-intestine-miao-100_microns-10_4 | 10⁻⁴ Cell Groups ~760 Microns (Miao) | [hubmap-intestine-miao-100_microns-10_4](https://cns-iu.github.io/hra-organ-gallery-supporting-information/data-pages/hubmap-intestine-miao-100_microns-10_4) |
-| [![Watch](https://img.youtube.com/vi/dozc6qNzzQE/0.jpg)](https://youtu.be/dozc6qNzzQE) | 10⁻⁴ | 100 microns | hubmap-intestine-zhu-100_microns-10_4 | 10⁻⁴ Cell Groups ~760 Microns (Zhu) | [hubmap-intestine-zhu-100_microns-10_4](https://cns-iu.github.io/hra-organ-gallery-supporting-information/data-pages/hubmap-intestine-zhu-100_microns-10_4) |
-| [![Watch](https://img.youtube.com/vi/tw3xERUPt7U/0.jpg)](https://youtu.be/tw3xERUPt7U) | 10⁻⁴ | 100 microns | cifar-liver-bader_xing-100_microns-10_4 | 10⁻⁴ Cell Groups ~760 Microns (Bader-Xing) | [cifar-liver-bader_xing-100_microns-10_4](https://cns-iu.github.io/hra-organ-gallery-supporting-information/data-pages/cifar-liver-bader_xing-100_microns-10_4) |
-| [![Watch](https://img.youtube.com/vi/hKq2IewW6lg/0.jpg)](https://youtu.be/hKq2IewW6lg) | 10⁻⁴ | 100 microns | hra-multiscale-comparison-codex-100_microns-10_4 | 10⁻⁴ Multiscale Comparison | [hra-multiscale-comparison-codex-100_microns-10_4](https://cns-iu.github.io/hra-organ-gallery-supporting-information/data-pages/hra-multiscale-comparison-codex-100_microns-10_4) |
-
-
----
 ## Application  
 The application is available for Meta Quest 2, 3, 3S, and Pro.  
 You can find it on the **Meta Horizon Store**:
@@ -48,4 +32,18 @@ You can find it on the **Meta Horizon Store**:
 ## Data and Code
 All code is **open-source** and accessible at:  
 - [GitHub Repository for VR](https://github.com/cns-iu/hra-organ-gallery-in-vr)  
-- [Supporting Information Repository](https://github.com/cns-iu/hra-organ-gallery-supporting-information)  
+- [Supporting Information Repository](https://github.com/cns-iu/hra-organ-gallery-supporting-information)
+
+## Videos
+A playlist with all video demos is available on [YouTube](https://www.youtube.com/playlist?list=PL-CUnYVIy7DPxxffI0t7xmM-T3xPgAZdl).
+
+| YouTube (Click to View) | Power | Metric Scale | Scene Name | Level Name |
+|---------|-------|-------|-------|-----|
+| [![Watch](https://img.youtube.com/vi/WbfieQPjEWQ/0.jpg)](https://youtu.be/WbfieQPjEWQ) | 10⁰ | 1 meter | hra-whole_body-hra-1_meter-10_0 | 10⁰ Whole Body |
+| [![Watch](https://img.youtube.com/vi/ziIqkVrZ9bw/0.jpg)](https://youtu.be/ziIqkVrZ9bw) | 10⁻² | 1 centimeter | sennet-lymph_node-enninful_farzad-1_centimeter-10_2 | 10⁻² Small Organ |
+| [![Watch](https://img.youtube.com/vi/Wy0BCOFWClk/0.jpg)](https://youtu.be/Wy0BCOFWClk) | 10⁻³ | 1 millimeter | sennet-brain-phatnani-1_millimeter-10_3 | 10⁻³ Large FTUs |
+| [![Watch](https://img.youtube.com/vi/Fyo-Tswcuew/0.jpg)](https://youtu.be/Fyo-Tswcuew) | 10⁻⁴ | 100 microns | hubmap-colon-wong-100_microns-10_4 | 10⁻⁴ Cell Groups ~760 Microns (Wong) |
+| [![Watch](https://img.youtube.com/vi/fiTfs3d2Ppg/0.jpg)](https://youtu.be/fiTfs3d2Ppg) | 10⁻⁴ | 100 microns | hubmap-intestine-miao-100_microns-10_4 | 10⁻⁴ Cell Groups ~760 Microns (Miao) |
+| [![Watch](https://img.youtube.com/vi/dozc6qNzzQE/0.jpg)](https://youtu.be/dozc6qNzzQE) | 10⁻⁴ | 100 microns | hubmap-intestine-zhu-100_microns-10_4 | 10⁻⁴ Cell Groups ~760 Microns (Zhu) |
+| [![Watch](https://img.youtube.com/vi/tw3xERUPt7U/0.jpg)](https://youtu.be/tw3xERUPt7U) | 10⁻⁴ | 100 microns | cifar-liver-bader_xing-100_microns-10_4 | 10⁻⁴ Cell Groups ~760 Microns (Bader-Xing) |
+| [![Watch](https://img.youtube.com/vi/hKq2IewW6lg/0.jpg)](https://youtu.be/hKq2IewW6lg) | 10⁻⁴ | 100 microns | hra-multiscale-comparison-codex-100_microns-10_4 | 10⁻⁴ Multiscale Comparison |
