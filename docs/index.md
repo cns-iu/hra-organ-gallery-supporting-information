@@ -38,7 +38,7 @@ You can find it on the **Meta Horizon Store**:
 [HRA Organ Gallery - Meta Store](https://www.meta.com/en-gb/experiences/hra-organ-gallery/5696814507101529/ )
 
 ## Data and Code
-All code is **open-source** and accessible at:  
+All code open-source and accessible at:  
 - [GitHub Repository for VR](https://github.com/cns-iu/hra-organ-gallery-in-vr)  
 - [Supporting Information Repository](https://github.com/cns-iu/hra-organ-gallery-supporting-information)
 
