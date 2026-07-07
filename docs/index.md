@@ -37,7 +37,7 @@ The application is available for Meta Quest 2, 3, 3S, and Pro.
 You can find it on the **Meta Horizon Store**:
 [HRA Organ Gallery - Meta Store](https://www.meta.com/en-gb/experiences/hra-organ-gallery/5696814507101529/ )
 
-## Data and Code
+## Data and code
 All code open-source and accessible at:  
 - [GitHub Repository for VR](https://github.com/cns-iu/hra-organ-gallery-in-vr)  
 - [Supporting Information Repository](https://github.com/cns-iu/hra-organ-gallery-supporting-information)
@@ -56,3 +56,7 @@ A playlist with all video demos is available on [YouTube](https://www.youtube.co
 | [![Watch](https://img.youtube.com/vi/dozc6qNzzQE/0.jpg)](https://youtu.be/dozc6qNzzQE) | 10⁻⁴ | 100 microns | hubmap-large_intestine-zhu-100_microns-10_4 | 10⁻⁴ Cell Groups ~760 Microns (Zhu) |
 | [![Watch](https://img.youtube.com/vi/tw3xERUPt7U/0.jpg)](https://youtu.be/tw3xERUPt7U) | 10⁻⁴ | 100 microns | cifar-liver-bader_xing-100_microns-10_4 | 10⁻⁴ Cell Groups ~760 Microns (Bader-Xing) |
 | [![Watch](https://img.youtube.com/vi/hKq2IewW6lg/0.jpg)](https://youtu.be/hKq2IewW6lg) | 10⁻⁴ | 100 microns | hra-multiscale-comparison-codex-100_microns-10_4 | 10⁻⁴ Multiscale Comparison |
+
+## High resolution versions of all figures
+
+High-resolution versions of all figures are available [here](https://github.com/cns-iu/hra-organ-gallery-supporting-information/tree/main/hi-res-figs). 
