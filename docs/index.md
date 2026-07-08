@@ -31,6 +31,7 @@ Katy Börner: [katy@iu.edu](mailto:katy@iu.edu)
 ## Links
 
 - Link to preprint: TBA
+- Link to HRA Organ Gallery on the HRA Portal: [https://humanatlas.io/hra-organ-gallery](https://humanatlas.io/hra-organ-gallery)
 
 ## Application  
 The application is available for Meta Quest 2, 3, 3S, and Pro.  
