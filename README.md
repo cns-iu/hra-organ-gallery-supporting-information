@@ -21,6 +21,6 @@ Andreas Bueckle<sup>1*</sup>, Chenchen Zhu<sup>2</sup>, Alex Yu Hin Wong<sup>3,4
 
 Here, we collect materials for the companion website at [https://cns-iu.github.io/hra-organ-gallery-supporting-information/](https://cns-iu.github.io/hra-organ-gallery-supporting-information/). Please refer to the companion website for the supporting information of this paper. 
 
-Link to preprint: TBA
+Link to preprint: [https://www.biorxiv.org/content/10.64898/2026.07.07.737090](https://www.biorxiv.org/content/10.64898/2026.07.07.737090)
 
 High-resolution versions of all figures are available [here](https://github.com/cns-iu/hra-organ-gallery-supporting-information/tree/main/hi-res-figs). 

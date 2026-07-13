@@ -30,7 +30,7 @@ Katy Börner: [katy@iu.edu](mailto:katy@iu.edu)
 
 ## Links
 
-- Link to preprint: TBA
+- Link to preprint: [https://www.biorxiv.org/content/10.64898/2026.07.07.737090](https://www.biorxiv.org/content/10.64898/2026.07.07.737090)
 - Link to HRA Organ Gallery on the HRA Portal: [https://humanatlas.io/hra-organ-gallery](https://humanatlas.io/hra-organ-gallery)
 
 ## Application  
