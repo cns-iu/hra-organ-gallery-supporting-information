@@ -26,6 +26,7 @@ Andreas Bueckle<sup>1*</sup>, Chenchen Zhu<sup>2</sup>, Alex Yu Hin Wong<sup>3,4
 
 \* Corresponding authors\
 Andreas Bueckle: [abueckle@iu.edu](mailto:abueckle@iu.edu)\
+Rong Fan: [rong.fan@yale.edu](mailto:rong.fan@yale.edu)\
 Katy Börner: [katy@iu.edu](mailto:katy@iu.edu)
 
 ## Links
