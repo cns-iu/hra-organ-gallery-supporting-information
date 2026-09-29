@@ -10,11 +10,11 @@ Andreas Bueckle<sup>1*</sup>, Chenchen Zhu<sup>2</sup>, Alex Yu Hin Wong<sup>3,4
 <sup>6</sup> Department of Biomedical Engineering, Duke University, Durham, NC, USA  
 <sup>7</sup> Center for Genomics of Neurodegenerative Disease, New York Genome Center, New York, NY, USA  
 <sup>8</sup> Department of Neurology, Columbia University Irving Medical Center, New York, NY, USA  
-<sup>9</sup> The Donnelly Centre, University of Toronto, Toronto, Ontario, Canada  
-<sup>10</sup> Department of Molecular Genetics, University of Toronto, Toronto, Ontario, Canada  
-<sup>11</sup> Princess Margaret Research Institute, University Health Network, Toronto, Ontario, Canada  
-<sup>12</sup> Department of Computer Science, University of Toronto, Toronto, Ontario, Canada  
-<sup>13</sup> Lunenfeld-Tanenbaum Research Institute, Toronto, Ontario, Canada  
+<sup>9</sup> The Donnelly Centre, University of Toronto, Toronto, ON, Canada  
+<sup>10</sup> Department of Molecular Genetics, University of Toronto, Toronto, ON, Canada  
+<sup>11</sup> Princess Margaret Research Institute, University Health Network, Toronto, ON, Canada  
+<sup>12</sup> Department of Computer Science, University of Toronto, Toronto, ON, Canada  
+<sup>13</sup> Lunenfeld-Tanenbaum Research Institute, Toronto, ON, Canada  
 <sup>14</sup> Canadian Institute for Advanced Research (CIFAR), Toronto, ON, Canada  
 <sup>15</sup> Center for Translational and Computational Neuroimmunology, Department of Neurology, Columbia University Irving Medical Center, New York, NY, USA  
 <sup>16</sup> Berlin Institute of Health at Charité, Universitätsmedizin Berlin, Berlin, Germany
