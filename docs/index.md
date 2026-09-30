@@ -90,7 +90,7 @@ The HRA Organ Gallery is developed in Unity, which allows developers to implemen
 
 *XRBaseInteractor*: This base class for components allows developers to enable the user’s VR controller (or other input device) to point at *GameObjects* and 2D/3D UI elements, e.g., with the *XRRayInteractor* component ([docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@2.6/manual/xr-ray-interactor.html](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@2.6/manual/xr-ray-interactor.html)).
 
-### Custom C# components and prefabs
+## Custom C# components and prefabs
 
 For the HRA Organ Gallery, the following custom C# components were developed and reused across multiple scenes:
 
