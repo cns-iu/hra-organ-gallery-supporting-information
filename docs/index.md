@@ -54,7 +54,7 @@ A playlist with all video demos is available on [YouTube](https://www.youtube.co
 | [![Watch](https://img.youtube.com/vi/Wy0BCOFWClk/0.jpg)](https://youtu.be/Wy0BCOFWClk) | 10⁻³ | 1 millimeter | sennet-brain-phatnani-1_millimeter-10_3 | 10⁻³ Large FTUs |
 | [![Watch](https://img.youtube.com/vi/Fyo-Tswcuew/0.jpg)](https://youtu.be/Fyo-Tswcuew) | 10⁻⁴ | 100 microns | hubmap-large_intestine-wong-100_microns-10_4 | 10⁻⁴ Cell Groups ~760 Microns (Wong) |
 | [![Watch](https://img.youtube.com/vi/fiTfs3d2Ppg/0.jpg)](https://youtu.be/fiTfs3d2Ppg) | 10⁻⁴ | 100 microns | hubmap-small_intestine-miao-100_microns-10_4 | 10⁻⁴ Cell Groups ~760 Microns (Miao) |
-| [![Watch](https://img.youtube.com/vi/dozc6qNzzQE/0.jpg)](https://youtu.be/dozc6qNzzQE) | 10⁻⁴ | 100 microns | hubmap-large_intestine-zhu-100_microns-10_4 | 10⁻⁴ Cell Groups ~760 Microns (Zhu) |
+| [![Watch](https://img.youtube.com/vi/dozc6qNzzQE/0.jpg)](https://youtu.be/dozc6qNzzQE) | 10⁻⁴ | 100 microns | htan-large_intestine-zhu-100_microns-10_4 | 10⁻⁴ Cell Groups ~760 Microns (Zhu) |
 | [![Watch](https://img.youtube.com/vi/tw3xERUPt7U/0.jpg)](https://youtu.be/tw3xERUPt7U) | 10⁻⁴ | 100 microns | cifar-liver-bader_xing-100_microns-10_4 | 10⁻⁴ Cell Groups ~760 Microns (Bader-Xing) |
 | [![Watch](https://img.youtube.com/vi/hKq2IewW6lg/0.jpg)](https://youtu.be/hKq2IewW6lg) | 10⁻⁴ | 100 microns | hra-multiscale-comparison-codex-100_microns-10_4 | 10⁻⁴ Multiscale Comparison |
 
@@ -72,7 +72,7 @@ The HRA Organ Gallery is developed in Unity, which allows developers to implemen
 
 - *SOCellColorMapping*: Contains mappings between cell type labels (strings) and colors (using Unity’s Color struct, see [docs.unity3d.com/ScriptReference/Color.html](https://docs.unity3d.com/ScriptReference/Color.html)).
 
-- *SOCellPositionList*: For visualizations of cells in 3D space, CSVs with x, y, z-position and cell type labels are ingested as *ScriptableObjects* (e.g., for **sennet-lymph_node-enninful_farzad-1_centimeter-10_2**, **hubmap-small_intestine-miao-100_microns-10_4**, and **hubmap-large_intestine-zhu-100_microns-10_4**).
+- *SOCellPositionList*: For visualizations of cells in 3D space, CSVs with x, y, z-position and cell type labels are ingested as *ScriptableObjects* (e.g., for **sennet-lymph_node-enninful_farzad-1_centimeter-10_2**, **hubmap-small_intestine-miao-100_microns-10_4**, and **htan-large_intestine-zhu-100_microns-10_4**).
 
 - *SODatasetCellTypeFrequency*: Is created together with instances of *SOCellPositionList*; this *ScriptableObject* type lists cell type labels and their respective number of occurrences within an ingested CSV.
 
@@ -104,7 +104,7 @@ For the HRA Organ Gallery, the following custom C# components were developed and
 
 *OnHoverSendMessage*: This custom class extends *MonoBehaviour* and implements *IPointerEnterHandler* and *IPointerExitHandler*, 2 interfaces from Unity’s EventSystems namespace. It is attached to all *CellLegend* entries. When the user hovers over a legend entry (e.g., a cell type), this component broadcasts the label of the hovered cell type so all cells in the scene are highlighted. This enables brush-and-link functionality using VR controllers.
 
-*VisualizerBase*: This abstract base class, through its derived classes, allows the developer to point to an empty *GameObject* (container) in 3D space, define a maximum width in 3D space, a scaling factor, and a color scheme. It also defines abstract functions for preparing the scaling and building a visualization; these functions must be defined in all derived classes, which may implement visualizations differently. 2 derived classes are used in the HRA Organ Gallery: *Visualizer3D* (used in **sennet-lymph_node-enninful_farzad-1_centimeter-10_2**, **hubmap-small_intestine-miao-100_microns-10_4**, **hubmap-large_intestine-zhu-100_microns-10_4**, and **hra-multiscale-comparison-codex-100_microns-10_4**), which visualizes a list of cell types in 2D or 3D space, and *VisualizerBiomarkers* (used in **sennet-brain-phatnani-1_millimeter-10_3**), which lays out Visium cell spots on a floor-aligned 2D plane in 3D space and adds vertical line meshes to represent 3D spikes.
+*VisualizerBase*: This abstract base class, through its derived classes, allows the developer to point to an empty *GameObject* (container) in 3D space, define a maximum width in 3D space, a scaling factor, and a color scheme. It also defines abstract functions for preparing the scaling and building a visualization; these functions must be defined in all derived classes, which may implement visualizations differently. 2 derived classes are used in the HRA Organ Gallery: *Visualizer3D* (used in **sennet-lymph_node-enninful_farzad-1_centimeter-10_2**, **hubmap-small_intestine-miao-100_microns-10_4**, **htan-large_intestine-zhu-100_microns-10_4**, and **hra-multiscale-comparison-codex-100_microns-10_4**), which visualizes a list of cell types in 2D or 3D space, and *VisualizerBiomarkers* (used in **sennet-brain-phatnani-1_millimeter-10_3**), which lays out Visium cell spots on a floor-aligned 2D plane in 3D space and adds vertical line meshes to represent 3D spikes.
 
 ## Editor scripts and *EditorWindows*
 
