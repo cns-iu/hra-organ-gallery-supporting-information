@@ -5,7 +5,7 @@ Andreas Bueckle<sup>1*</sup>, Chenchen Zhu<sup>2</sup>, Alex Yu Hin Wong<sup>3,4
 <sup>1</sup> Department of Intelligent Systems Engineering, Indiana University, Bloomington, IN, USA  
 <sup>2</sup> Department of Genetics, Stanford University, Stanford, CA, USA  
 <sup>3</sup> Laboratory of Systems Pharmacology, Harvard Medical School, Boston, MA, USA  
-<sup>4</sup> Ludwig Centre at Harvard, Harvard Medical School, Boston, MA, USA  
+<sup>4</sup> Ludwig Center at Harvard, Harvard Medical School, Boston, MA, USA  
 <sup>5</sup> School of Engineering & Applied Science, Yale University, New Haven, CT, USA  
 <sup>6</sup> Department of Biomedical Engineering, Duke University, Durham, NC, USA  
 <sup>7</sup> Center for Genomics of Neurodegenerative Disease, New York Genome Center, New York, NY, USA  
